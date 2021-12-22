@@ -1,0 +1,650 @@
+[
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/d63ea550-7112-4981-b9f3-3f8d429697f2.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/51eceea9-1456-4a5c-94f9-9a3b4d47b797.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/a914a6fb-d6fa-429b-9dd8-686efe50b7d8.jpg?aki_policy=large"
+    ],
+    "titulo": "Villa Nikara a 5 minutes walk from Berawa Beach",
+    "ubuicacion": "Kuta Utara, Bali, Indonesia",
+    "precio": 205,
+    "comodidades": { "habitaciones": 3, "camas": 2, "baños": 1 },
+    "servicios": [
+      "cocina",
+      "wifi",
+      "plancha",
+      "estacionamiento gratuito en las instalaciones",
+      "jacuzzi"
+    ],
+    "numeroEstrellas": 4,
+    "numeroOpiniones": 104,
+    "url": "https://nextviaje.vercel.app/detalles/villa-nikara-a-5-minutes-walk-from-berawa-beach"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/3fc410ca-a8d7-46c4-b30d-32f5245a2130.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/2bd75666-8f9c-45f3-b9cb-1f71038da3d7.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/89c53ddc-d53b-45ad-9de5-6ed1acbfe6d3.jpg?aki_policy=large"
+    ],
+    "titulo": "Stunning Designer Home-Anjali Suite",
+    "ubuicacion": "Ubud, Bali, Indonesia",
+    "precio": 534,
+    "comodidades": { "habitaciones": 3, "camas": 1, "baños": 1 },
+    "servicios": ["cocina", "wifi", "plancha", "desayuno", "secador de pelo"],
+    "numeroEstrellas": 3,
+    "numeroOpiniones": 59,
+    "url": "https://nextviaje.vercel.app/detalles/stunning-designer-homeanjali-suite"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/ded30ab6-bf1b-4ba9-a3d3-d4c55c7d7646.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/95cbb7ff-8880-4e60-a422-27ce4b564816.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/14063483-3c8e-4d80-a62a-f6c7681717a4.jpg?aki_policy=large"
+    ],
+    "titulo": "Hidden Escape Pool & Wifi",
+    "ubuicacion": "Denpasar, Bali, Indonesia",
+    "precio": 977,
+    "comodidades": { "habitaciones": 1, "camas": 3, "baños": 1 },
+    "servicios": [
+      "calefacción",
+      "wifi",
+      "aire acondicionado",
+      "zona para trabajar con computadora portátil",
+      "elementos básicos"
+    ],
+    "numeroEstrellas": 5,
+    "numeroOpiniones": 34,
+    "url": "https://nextviaje.vercel.app/detalles/hidden-escape-pool-and-wifi"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/3859dd93-9150-4077-919b-289d3258bfc2.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/4add98f5-aa6c-4470-8a2e-0ad864035616.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/1338db62-27cf-4814-a7bc-3a22a0632b5d.jpg?aki_policy=large"
+    ],
+    "titulo": "BEAUTIFUL ROOM WITH PRIVATE POOL",
+    "ubuicacion": "Ubud, Bali, Indonesia",
+    "precio": 793,
+    "comodidades": { "habitaciones": 1, "camas": 3, "baños": 1 },
+    "servicios": [
+      "cocina",
+      "chimenea interior",
+      "wifi",
+      "estacionamiento gratuito en las instalaciones",
+      "desayuno"
+    ],
+    "numeroEstrellas": 2,
+    "numeroOpiniones": 64,
+    "url": "https://nextviaje.vercel.app/detalles/beautiful-room-with-private-pool"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/4707251d-b704-4c22-bcee-3a3ae597fe3e.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/6cbba540-4584-4df6-8995-61ca613c6eda.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/c574d2ec-7ed8-4738-96f6-c0cb9f6a75b3.jpg?aki_policy=large"
+    ],
+    "titulo": "Modern & Spacious - Short Walk to Beach/Shops/Food",
+    "ubuicacion": "Kuta Utara, Bali, Indonesia",
+    "precio": 914,
+    "comodidades": { "habitaciones": 2, "camas": 2, "baños": 1 },
+    "servicios": [
+      "cocina",
+      "wifi",
+      "plancha",
+      "estacionamiento gratuito en las instalaciones",
+      "secador de pelo"
+    ],
+    "numeroEstrellas": 3,
+    "numeroOpiniones": 254,
+    "url": "https://nextviaje.vercel.app/detalles/modern-and-spacious-short-walk-to-beach-shops-food"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/81b47b10-0df3-4622-829d-a91afdcf817b.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/349a82ff-de64-4cdf-91ab-cf1ba1139ec9.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/93db61b5-0a7c-4170-be71-fce5c2a7bd57.jpg?aki_policy=large"
+    ],
+    "titulo": "ROMANTIC GETAWAY - ARCHITECTURAL MASTERPIECE",
+    "ubuicacion": "Kuta Utara, Bali, Indonesia",
+    "precio": 998,
+    "comodidades": { "habitaciones": 3, "camas": 2, "baños": 1 },
+    "servicios": [
+      "cocina",
+      "wifi",
+      "plancha",
+      "estacionamiento gratuito en las instalaciones",
+      "secador de pelo"
+    ],
+    "numeroEstrellas": 5,
+    "numeroOpiniones": 84,
+    "url": "https://nextviaje.vercel.app/detalles/romantic-getaway-architectural-masterpiece"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/7e3509fe_original.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/4b836608_original.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/4f56c15a_original.jpg?aki_policy=large"
+    ],
+    "titulo": "Bamboo eco cottage in rice fields",
+    "ubuicacion": "Ubud, Bali, Indonesia",
+    "precio": 248,
+    "comodidades": { "habitaciones": 3, "camas": 1, "baños": 2 },
+    "servicios": [
+      "wifi",
+      "secadora",
+      "lavadora",
+      "secador de pelo",
+      "elementos básicos"
+    ],
+    "numeroEstrellas": 1,
+    "numeroOpiniones": 97,
+    "url": "https://nextviaje.vercel.app/detalles/bamboo-eco-cottage-in-rice-fields"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/bdde798e_original.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/f2095456_original.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/1d2d03b1_original.jpg?aki_policy=large"
+    ],
+    "titulo": "Tropical Suite Villa private pool 5",
+    "ubuicacion": "Canggu, Bali, Indonesia",
+    "precio": 76,
+    "comodidades": { "habitaciones": 1, "camas": 3, "baños": 1 },
+    "servicios": [
+      "cocina",
+      "wifi",
+      "plancha",
+      "estacionamiento gratuito en las instalaciones",
+      "secador de pelo"
+    ],
+    "numeroEstrellas": 3,
+    "numeroOpiniones": 87,
+    "url": "https://nextviaje.vercel.app/detalles/tropical-suite-villa-private-pool-5"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/1faf9a4c-f839-44da-bd37-65ddc928379e.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/74558c5a-c753-4822-9980-ace2e9b33d7a.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/876b0ff5-7dba-416f-9ce6-4306f46d6f43.jpg?aki_policy=large"
+    ],
+    "titulo": "180° VIEW, PRIVATE POOL VILLA..",
+    "ubuicacion": "Singaraja, Bali, Indonesia",
+    "precio": 757,
+    "comodidades": { "habitaciones": 3, "camas": 1, "baños": 1 },
+    "servicios": ["cocina", "gimnasio", "wifi", "plancha", "secadora"],
+    "numeroEstrellas": 5,
+    "numeroOpiniones": 74,
+    "url": "https://nextviaje.vercel.app/detalles/180-view-private-pool-villa"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/695ce82f_original.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/f7d8f61e-bc17-4e00-89e0-e6a749a01c63.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/00788c2e-b90e-4cfe-a5c0-15bb4cc2b5a1.jpg?aki_policy=large"
+    ],
+    "titulo": "Antique garden cabins with HEART! 3",
+    "ubuicacion": "Denpasar, Bali, Indonesia",
+    "precio": 172,
+    "comodidades": { "habitaciones": 3, "camas": 1, "baños": 1 },
+    "servicios": [
+      "cocina",
+      "wifi",
+      "estacionamiento gratuito en las instalaciones",
+      "aire acondicionado",
+      "zona para trabajar con computadora portátil"
+    ],
+    "numeroEstrellas": 4,
+    "numeroOpiniones": 63,
+    "url": "https://nextviaje.vercel.app/detalles/antique-garden-cabins-with-heart-3"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/443a11ee-d616-471e-a723-bd8be24468ee.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/e25a9b25-fa98-4160-bfd1-039287bf38b6.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/d4c2230b-54e0-49d7-813b-9ee7f2dfe936.jpg?aki_policy=large"
+    ],
+    "titulo": "Aura House 2bds Eco Bamboo House, Pool, River View",
+    "ubuicacion": "Abiansemal, Bali, Indonesia",
+    "precio": 701,
+    "comodidades": { "habitaciones": 3, "camas": 1, "baños": 1 },
+    "servicios": [
+      "cocina",
+      "wifi",
+      "estacionamiento gratuito en las instalaciones",
+      "secador de pelo",
+      "aire acondicionado"
+    ],
+    "numeroEstrellas": 3,
+    "numeroOpiniones": 44,
+    "url": "https://nextviaje.vercel.app/detalles/aura-house-2bds-eco-bamboo-house-pool-river-view"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/3bc68567-12e0-40c7-8f49-455f7e0987b0.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/a8a29115-7d31-4ea9-8be7-fc5dc1481f2c.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/3842da4a-607a-4ee9-8a75-0e32d00505fa.jpg?aki_policy=large"
+    ],
+    "titulo": "Secret Spot near the beach",
+    "ubuicacion": "Kuta, Legian, Bali, Indonesia",
+    "precio": 218,
+    "comodidades": { "habitaciones": 1, "camas": 2, "baños": 1 },
+    "servicios": [
+      "cocina",
+      "wifi",
+      "plancha",
+      "estacionamiento gratuito en las instalaciones",
+      "secador de pelo"
+    ],
+    "numeroEstrellas": 4,
+    "numeroOpiniones": 78,
+    "url": "https://nextviaje.vercel.app/detalles/secret-spot-near-the-beach"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/59a2ff4a_original.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/bd22bc52_original.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/e210db72_original.jpg?aki_policy=large"
+    ],
+    "titulo": "LUXURY,COSY & PRIVATE VILLA",
+    "ubuicacion": "Canggu, Bali, Indonesia",
+    "precio": 356,
+    "comodidades": { "habitaciones": 1, "camas": 3, "baños": 1 },
+    "servicios": [
+      "cocina",
+      "calefacción",
+      "wifi",
+      "plancha",
+      "estacionamiento gratuito en las instalaciones"
+    ],
+    "numeroEstrellas": 5,
+    "numeroOpiniones": 235,
+    "url": "https://nextviaje.vercel.app/detalles/luxury-cosy-and-private-villa"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/7cc3c855-f90e-4d0f-9b13-3b5c2a3c4bad.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/9833de62-35b7-41f2-8a24-0d9354150ea7.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/de73abc2-5dc9-4962-ba32-5d28211cdde0.jpg?aki_policy=large"
+    ],
+    "titulo": "BALIAN TREEHOUSE w beautiful pool",
+    "ubuicacion": "Balian Beach, Bali, Selemadeg Barat, Indonesia",
+    "precio": 347,
+    "comodidades": { "habitaciones": 1, "camas": 1, "baños": 2 },
+    "servicios": [
+      "cocina",
+      "wifi",
+      "estacionamiento gratuito en las instalaciones",
+      "televisión por cable",
+      "aire acondicionado"
+    ],
+    "numeroEstrellas": 1,
+    "numeroOpiniones": 98,
+    "url": "https://nextviaje.vercel.app/detalles/balian-treehouse-w-beautiful-pool"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/1c46a694-8fbf-4b89-85e0-4dc5bea6daf8.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/9878f400-420f-4b1c-ae18-d2d67f3e5ede.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/18bc4511-ed9b-4726-aa5e-b3c863aacdc4.jpg?aki_policy=large"
+    ],
+    "titulo": "Beautiful Cliff-Side Jungle Villa",
+    "ubuicacion": "Bali, Indonesia",
+    "precio": 875,
+    "comodidades": { "habitaciones": 2, "camas": 1, "baños": 2 },
+    "servicios": [
+      "cocina",
+      "wifi",
+      "estacionamiento gratuito en las instalaciones",
+      "secador de pelo",
+      "televisión por cable"
+    ],
+    "numeroEstrellas": 2,
+    "numeroOpiniones": 36,
+    "url": "https://nextviaje.vercel.app/detalles/beautiful-cliffside-jungle-villa"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/f2a6d022-23fc-4701-b703-806870cd9ed7.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/40036a49-6fc1-45f4-9988-9f49c26c902a.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/03b3df76-6138-4607-bf7e-c19112f7acf7.jpg?aki_policy=large"
+    ],
+    "titulo": "HIDEOUT BALI - Eco Bamboo Home",
+    "ubuicacion": "Selat, Bali, Indonesia",
+    "precio": 437,
+    "comodidades": { "habitaciones": 2, "camas": 2, "baños": 2 },
+    "servicios": [
+      "cocina",
+      "wifi",
+      "estacionamiento gratuito en las instalaciones",
+      "desayuno",
+      "zona para trabajar con computadora portátil"
+    ],
+    "numeroEstrellas": 5,
+    "numeroOpiniones": 46,
+    "url": "https://nextviaje.vercel.app/detalles/hideout-bali-eco-bamboo-home"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/bee5835d_original.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/df506b67_original.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/6289eab7_original.jpg?aki_policy=large"
+    ],
+    "titulo": "Tree House 10 mins drive fr center",
+    "ubuicacion": "Mueang Chiang Mai, Chiang Mai, Tailandia",
+    "precio": 997,
+    "comodidades": { "habitaciones": 3, "camas": 2, "baños": 2 },
+    "servicios": [
+      "cocina",
+      "gimnasio",
+      "wifi",
+      "estacionamiento gratuito en las instalaciones",
+      "secador de pelo"
+    ],
+    "numeroEstrellas": 4,
+    "numeroOpiniones": 78,
+    "url": "https://nextviaje.vercel.app/detalles/tree-house-10-mins-drive-fr-center"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/95611e60-f3ca-4a70-a5a9-041c72b63a3d.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/1321a943-a71e-4ccf-a1c9-f418085a682c.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/6ff6a8f6-5c1f-4e6b-b086-3f1dc4113b2c.jpg?aki_policy=large"
+    ],
+    "titulo": "The Astra#Rooftop Pool#Gym#Sauna#Near Nightmarket",
+    "ubuicacion": "Amphoe Mueang Chiang Mai, Chiang Mai, Tailandia",
+    "precio": 263,
+    "comodidades": { "habitaciones": 3, "camas": 1, "baños": 1 },
+    "servicios": ["ascensor", "cocina", "gimnasio", "jacuzzi", "secadora"],
+    "numeroEstrellas": 2,
+    "numeroOpiniones": 88,
+    "url": "https://nextviaje.vercel.app/detalles/the-astra-rooftop-pool-gym-sauna-near-nightmarket"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/9a6384e1-b932-4367-9cce-8d0f4eadf0fb.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/3382cd78-a62d-4637-8078-953f444efe22.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/ba7d9b89-af78-4975-960b-6e4eeadcfd3a.jpg?aki_policy=large"
+    ],
+    "titulo": "806[SeeView] 3 min. to Chiang Mai Old town",
+    "ubuicacion": "Amphoe Mueang Chiang Mai, Chiang Mai, Tailandia",
+    "precio": 792,
+    "comodidades": { "habitaciones": 2, "camas": 4, "baños": 2 },
+    "servicios": [
+      "cocina",
+      "wifi",
+      "plancha",
+      "estacionamiento gratuito en las instalaciones",
+      "secador de pelo"
+    ],
+    "numeroEstrellas": 2,
+    "numeroOpiniones": 38,
+    "url": "https://nextviaje.vercel.app/detalles/806-seeview-3-min-to-chiang-mai-old-town"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/d17f5674-fe8f-4a38-9c05-6afd55c52003.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/91d28496-bd7e-42e4-982e-15bbe559f707.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/8115e701-1146-49d1-acd5-0567af0737f4.jpg?aki_policy=large"
+    ],
+    "titulo": "CosyRoom near North Gate +free breakfast @AmakaB&B",
+    "ubuicacion": "Muang, Chiang Mai, Tailandia",
+    "precio": 635,
+    "comodidades": { "habitaciones": 3, "camas": 3, "baños": 2 },
+    "servicios": [
+      "wifi",
+      "desayuno",
+      "plancha",
+      "estacionamiento gratuito en las instalaciones",
+      "secador de pelo"
+    ],
+    "numeroEstrellas": 1,
+    "numeroOpiniones": 250,
+    "url": "https://nextviaje.vercel.app/detalles/cosyroom-near-north-gate-free-breakfast-amakabandb"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/ab545314-816e-4f94-adf9-61bc1a65400b.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/f61517d0-d4e1-477e-9dd9-c4479163ecdb.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/ed8dced6-8a2a-4f97-8c8d-c1a46c110fa2.jpg?aki_policy=large"
+    ],
+    "titulo": "Brand-new Apt. near Nimman,SuthepMount.andOld City",
+    "ubuicacion": "Amphoe Mueang Chiang Mai, Chiang Mai, Tailandia",
+    "precio": 101,
+    "comodidades": { "habitaciones": 2, "camas": 2, "baños": 1 },
+    "servicios": ["ascensor", "cocina", "gimnasio", "jacuzzi", "calefacción"],
+    "numeroEstrellas": 3,
+    "numeroOpiniones": 99,
+    "url": "https://nextviaje.vercel.app/detalles/brandnew-apt-near-nimman-suthepmountandold-city"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/a734d78a-0b5e-43f8-a13c-a8524b3fa70c.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/872e755a-a3f7-4e6d-89a5-bff1c8586005.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/09abb4f6-0ff8-4dd7-a8f9-a0d3b3a937e4.jpg?aki_policy=large"
+    ],
+    "titulo": "Nice & Clean Room in HeyHa House",
+    "ubuicacion": "Chiang Mai, Tailandia",
+    "precio": 496,
+    "comodidades": { "habitaciones": 3, "camas": 1, "baños": 2 },
+    "servicios": [
+      "wifi",
+      "estacionamiento gratuito en las instalaciones",
+      "secador de pelo",
+      "televisión por cable",
+      "zona para trabajar con computadora portátil"
+    ],
+    "numeroEstrellas": 4,
+    "numeroOpiniones": 47,
+    "url": "https://nextviaje.vercel.app/detalles/nice-and-clean-room-in-heyha-house"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/e101a29b-1ae1-449a-95d0-079795c8d970.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/d463441f-3762-4063-9447-4c390ad2e432.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/8741f2d6-bd57-47ab-bc58-c616f04d1482.jpg?aki_policy=large"
+    ],
+    "titulo": "Baan Sri Dha - Luxury 3Bed in Town",
+    "ubuicacion": "Hai Ya, Chiang Mai, Tailandia",
+    "precio": 480,
+    "comodidades": { "habitaciones": 2, "camas": 2, "baños": 2 },
+    "servicios": [
+      "cocina",
+      "wifi",
+      "desayuno",
+      "plancha",
+      "estacionamiento gratuito en las instalaciones"
+    ],
+    "numeroEstrellas": 4,
+    "numeroOpiniones": 87,
+    "url": "https://nextviaje.vercel.app/detalles/baan-sri-dha-luxury-3bed-in-town"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/2613f836-1b56-428c-9180-e25d92d266a4.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/40380997-95ee-4144-9ef1-7965e53c54ff.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/931038a4-50c3-48a0-9765-9eb094de5038.jpg?aki_policy=large"
+    ],
+    "titulo": "The Hipster Townhome",
+    "ubuicacion": "Su Thep, Chiang Mai, Tailandia",
+    "precio": 769,
+    "comodidades": { "habitaciones": 2, "camas": 3, "baños": 1 },
+    "servicios": [
+      "cocina",
+      "wifi",
+      "plancha",
+      "estacionamiento gratuito en las instalaciones",
+      "secador de pelo"
+    ],
+    "numeroEstrellas": 4,
+    "numeroOpiniones": 51,
+    "url": "https://nextviaje.vercel.app/detalles/the-hipster-townhome"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/8cb8d847-6be3-48f2-a62b-b8cd6d31c285.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/7852f15f-b738-4df5-93d3-345cce1e7543.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/e22e9a73-76c1-4ffa-bfa6-e35120e65e14.jpg?aki_policy=large"
+    ],
+    "titulo": "Modern Western Home",
+    "ubuicacion": "A Muang, Chiang Mai, Tailandia",
+    "precio": 514,
+    "comodidades": { "habitaciones": 1, "camas": 2, "baños": 2 },
+    "servicios": [
+      "cocina",
+      "wifi",
+      "desayuno",
+      "estacionamiento gratuito en las instalaciones",
+      "secador de pelo"
+    ],
+    "numeroEstrellas": 1,
+    "numeroOpiniones": 69,
+    "url": "https://nextviaje.vercel.app/detalles/modern-western-home"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/429fce7d-abe8-4aae-84db-d263b6a9cdc7.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/76ec21f1-e66c-4bb5-bf7a-482f977a6160.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/dcf9f2e0-0929-41ca-b433-2be68fd0a320.jpg?aki_policy=large"
+    ],
+    "titulo": "PRIVATE HOUSE IN CHIANGMAI'S HISTORIC CITY.",
+    "ubuicacion": "Tambon Phra Sing, Chiang Mai, Tailandia",
+    "precio": 821,
+    "comodidades": { "habitaciones": 1, "camas": 4, "baños": 1 },
+    "servicios": ["cocina", "jacuzzi", "wifi", "plancha", "secador de pelo"],
+    "numeroEstrellas": 4,
+    "numeroOpiniones": 36,
+    "url": "https://nextviaje.vercel.app/detalles/private-house-in-chiangmais-historic-city"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/c2c3219a-bbb1-4421-8945-5594e108a097.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/8e36d8d2-cc58-41c9-883f-eecdbd7c2d1f.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/866488a4-b868-4200-82eb-76b51d765202.jpg?aki_policy=large"
+    ],
+    "titulo": "Luxury room in hippest area Nimman/mountain view",
+    "ubuicacion": "Su Thep, Chiang Mai, Tailandia",
+    "precio": 247,
+    "comodidades": { "habitaciones": 2, "camas": 1, "baños": 2 },
+    "servicios": ["ascensor", "cocina", "gimnasio", "wifi", "plancha"],
+    "numeroEstrellas": 3,
+    "numeroOpiniones": 78,
+    "url": "https://nextviaje.vercel.app/detalles/luxury-room-in-hippest-area-nimman-mountain-view"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/cab18d5c-7cef-471c-bceb-b8aa033c77e5.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/c3c8a5fa-e7a1-4f0b-bab4-96340c609502.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/f838f4d5-0229-44f7-adb9-18dabe7fda6f.jpg?aki_policy=large"
+    ],
+    "titulo": "Chiang Mai Changkang Road Luxury The Astra",
+    "ubuicacion": "Chiang Mai, Tailandia",
+    "precio": 842,
+    "comodidades": { "habitaciones": 2, "camas": 1, "baños": 2 },
+    "servicios": ["ascensor", "cocina", "gimnasio", "jacuzzi", "secadora"],
+    "numeroEstrellas": 3,
+    "numeroOpiniones": 64,
+    "url": "https://nextviaje.vercel.app/detalles/chiang-mai-changkang-road-luxury-the-astra"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/47e3f86e_original.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/4a7877fb-8797-4d7b-b661-90f8985ffef5.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/c198b601_original.jpg?aki_policy=large"
+    ],
+    "titulo": "CLEAN CM University+foodstalls+Pool",
+    "ubuicacion": "Chiang Mai, Tailandia",
+    "precio": 385,
+    "comodidades": { "habitaciones": 2, "camas": 1, "baños": 1 },
+    "servicios": ["ascensor", "cocina", "gimnasio", "wifi", "plancha"],
+    "numeroEstrellas": 1,
+    "numeroOpiniones": 88,
+    "url": "https://nextviaje.vercel.app/detalles/clean-cm-universityfoodstallspool"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/7bb97915_original.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/328749b9_original.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/e7c3bcfa_original.jpg?aki_policy=large"
+    ],
+    "titulo": "Sala Old Town Singharat Road",
+    "ubuicacion": "Si Phum, Chiang Mai, Tailandia",
+    "precio": 634,
+    "comodidades": { "habitaciones": 1, "camas": 2, "baños": 2 },
+    "servicios": [
+      "cocina",
+      "wifi",
+      "secador de pelo",
+      "zona para trabajar con computadora portátil",
+      "lavadora"
+    ],
+    "numeroEstrellas": 4,
+    "numeroOpiniones": 36,
+    "url": "https://nextviaje.vercel.app/detalles/sala-old-town-singharat-road"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/c553f8a5-c210-441c-9e13-bcb8e1f776cc.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/76492530-e74a-49a7-b627-723a78cfae50.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/33ea76d0-6ba6-4a1f-bb08-1d92db443405.jpg?aki_policy=large"
+    ],
+    "titulo": "Villa Nittra Singharaj",
+    "ubuicacion": "Chiang Mai, Tailandia",
+    "precio": 153,
+    "comodidades": { "habitaciones": 2, "camas": 3, "baños": 2 },
+    "servicios": ["cocina", "secadora", "wifi", "plancha", "secador de pelo"],
+    "numeroEstrellas": 3,
+    "numeroOpiniones": 64,
+    "url": "https://nextviaje.vercel.app/detalles/villa-nittra-singharaj"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/7e510574-15d3-4837-bea8-357027c5e9af.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/6b67d03f-b961-475a-9013-9db84f2b15cb.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/eac30377-617c-4007-b348-9144a5a905d2.jpg?aki_policy=large"
+    ],
+    "titulo": "The Centr of Nimman by Palm Springs.",
+    "ubuicacion": "Su Thep, Chiang Mai, Tailandia",
+    "precio": 94,
+    "comodidades": { "habitaciones": 2, "camas": 1, "baños": 1 },
+    "servicios": [
+      "ascensor",
+      "gimnasio",
+      "wifi",
+      "plancha",
+      "estacionamiento gratuito en las instalaciones"
+    ],
+    "numeroEstrellas": 2,
+    "numeroOpiniones": 150,
+    "url": "https://nextviaje.vercel.app/detalles/the-centr-of-nimman-by-palm-springs"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/8a76f590-883f-4c2a-aba5-9c51a803bf66.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/eec66da1-caef-410f-a224-f746b3fd0db0.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/15a2e459-0126-4a2f-ad4f-7668fd083ec2.jpg?aki_policy=large"
+    ],
+    "titulo": "City center.close Night Bazaar.old city",
+    "ubuicacion": "Thesaban Nakhon Chiang Mai, Chiang Mai, Tailandia",
+    "precio": 926,
+    "comodidades": { "habitaciones": 3, "camas": 3, "baños": 1 },
+    "servicios": ["ascensor", "cocina", "gimnasio", "jacuzzi", "secadora"],
+    "numeroEstrellas": 2,
+    "numeroOpiniones": 120,
+    "url": "https://nextviaje.vercel.app/detalles/city-center-close-night-bazaarold-city"
+  },
+  {
+    "imagenes": [
+      "https://nextviaje.vercel.app/images/1eaae01e-d6c2-4866-8795-62899280fdae.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/99070157-523c-4fc2-bda1-268bafda19e5.jpg?aki_policy=large",
+      "https://nextviaje.vercel.app/images/ef3797ba-f65c-486a-8335-508cf037140b.jpg?aki_policy=large"
+    ],
+    "titulo": "Modern Beautiful Luxury Boutique Condo",
+    "ubuicacion": "Chiang Mai, Tailandia",
+    "precio": 650,
+    "comodidades": { "habitaciones": 2, "camas": 4, "baños": 2 },
+    "servicios": ["ascensor", "cocina", "gimnasio", "wifi", "plancha"],
+    "numeroEstrellas": 4,
+    "numeroOpiniones": 87,
+    "url": "https://nextviaje.vercel.app/detalles/modern-beautiful-luxury-boutique-condo"
+  }
+]
